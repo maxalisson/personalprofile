@@ -1,0 +1,13 @@
+:root {
+  --white: #f5f5f5;
+  --gray: #b2b2b2;
+  --black: #000000;
+  --primary-color: #1a237e;          /* Azul escuro */
+  --secondary-color: #283593;        /* Azul profundo */
+  --dark-secondary-color: #3949ab;   /* Azul mais escuro */
+  --tertiary-color: #5c6bc0;         /* Azul médio */
+  --light-tertiary-color: #8c9eff;   /* Azul claro */
+  --text-color: #303f9f;             /* Azul para texto */
+
+  --font-family: 'DM Sans', sans-serif;
+}
